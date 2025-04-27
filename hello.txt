@@ -1,1 +1,2 @@
 hello
+Small changes in the file
